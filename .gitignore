@@ -1,0 +1,15 @@
+.venv/
+.runs/
+.asset-cache/
+.deployment.json*
+node_modules/
+validation/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+result/
+assets/models/*.pt
+assets/models/*.pth
+piano-transcription-skill.tar.gz*

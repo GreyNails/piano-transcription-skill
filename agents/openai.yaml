@@ -1,0 +1,4 @@
+interface:
+  display_name: "钢琴视频扒谱与重奏"
+  short_description: "从钢琴视频或音频生成乐谱、MIDI 和重奏 MP3，保留原音对照与历史版本"
+  default_prompt: "使用 $piano-transcription 将指定钢琴视频或音频转换为 PDF、MIDI 和重奏 MP3，保留旧版本并检查原音对照。"

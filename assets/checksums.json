@@ -1,0 +1,21 @@
+{
+  "assets/models/bytedance.pth": "c3fa9730725bf4a762f1c14bc80cd5986eacda01b026f5a4a2525cd607876141",
+  "assets/models/transkun-2.0.pt": "50a80010effc2a59ffcd068a95cd2b29bd7f23a27a3515bc3ccd209c89a3d44c",
+  "assets/models/transkun-2.0.conf": "d3d989214eb148230ee5df476d994dcde6af595904d3f968f1221d2e3bea5ac6",
+  "assets/samples/69.wav": "57db0ccd2518111a54834c1950663ed1bdc252404344383bb479f6b4bc57786d",
+  "assets/samples/86.wav": "336000d748b05fc41c5c970b895ebc2394e543d6f4762b582363424e0787473b",
+  "assets/samples/26.wav": "0c90b882d4c34a4a5e7ec40370ebca609efab23a29ccd71ac42a25f8d2ff6787",
+  "assets/samples/45.wav": "3264f4e07ac59d2dc50fbf708df8f6b12b840d3283840ed236c17b01973a9854",
+  "assets/samples/81.wav": "91763b4bd462bde3146c78345dd845d022d849030ee109d4416e37f602c115dc",
+  "assets/samples/50.wav": "292ef4f6344cf416f8ac7ce8eb6b5a73419f55eea668f4578c12751e5646eaf1",
+  "assets/samples/57.wav": "00ada1fe8705a1b553a733e3eab3e98b112eae18a7c0a3d43106abe93d79811c",
+  "assets/samples/33.wav": "60dfe739f67fad245036465b900a15a56b5f9cfbd753c613a577d331717642d0",
+  "assets/samples/21.wav": "edaec1bc9c5ed1cda770575c37b802e1b256a87a48afdd85313ea2d4cfe9c8a3",
+  "assets/samples/74.wav": "cb2d6474b988c1f89b7b15c28d15b8947aa54d4c1d2c99dda52bfd4f75d8a7ac",
+  "assets/samples/38.wav": "37673eb08d42b2b1faee4e78609b97a5734220e048a2da01c248a908bba3bd64",
+  "assets/samples/62.wav": "9154d78707c228b38e7887b8d5c07ec7bcb4f9de5e62638f94f995ac5847046b",
+  "assets/samples/93.wav": "67487d7a4fa4f19ed4d35e13527e4905b185d2cddfc0cebd58c70cff9110a8ff",
+  "assets/samples/105.wav": "82b3ce728c87d437c24ef6a38b540b2f43b04d118db9b1cc1e1d10382680e7a0",
+  "assets/samples/98.wav": "acde49ce9aa0d2973bb6828095867262f7924707995f056eb5f61fcb61dbeb90",
+  "assets/node_modules.tar.gz": "3bcfb40b1292012caf0f79c060fe957495ee687212f208cfc02bbb6f5352e5dd"
+}

@@ -1,0 +1,10 @@
+.venv
+.git
+.asset-cache
+.runs
+.deployment.json*
+node_modules
+validation
+*.tar.gz
+**/__pycache__
+**/*.pyc

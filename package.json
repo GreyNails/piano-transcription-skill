@@ -1,0 +1,9 @@
+{
+  "name": "piano-transcription-skill",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "jsdom": "25.0.0",
+    "vexflow": "4.2.2"
+  }
+}

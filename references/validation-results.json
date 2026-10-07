@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-07",
+  "cases": [
+    {
+      "case": "audio-result/测试_钢琴/原音对照版_v1",
+      "notes": 225,
+      "pdf_pages": 4,
+      "midi_max_error_ms": 0.23309583333741557,
+      "previous_files_preserved": 0,
+      "visual_evidence": false,
+      "unexpected_silence": [],
+      "accuracy_measured": false
+    },
+    {
+      "case": "audio-result/测试_钢琴/原音对照版_v2",
+      "notes": 225,
+      "pdf_pages": 2,
+      "midi_max_error_ms": 0.3740020833351565,
+      "previous_files_preserved": 33,
+      "visual_evidence": false,
+      "unexpected_silence": [],
+      "accuracy_measured": false
+    },
+    {
+      "case": "defaults/测试_钢琴/原音对照版_v1",
+      "notes": 225,
+      "pdf_pages": 4,
+      "midi_max_error_ms": 0.23309583333741557,
+      "previous_files_preserved": 0,
+      "visual_evidence": false,
+      "unexpected_silence": [],
+      "accuracy_measured": false
+    },
+    {
+      "case": "docker-result/video_test/原音对照版_v1",
+      "notes": 196,
+      "pdf_pages": 4,
+      "midi_max_error_ms": 0.2288666666666883,
+      "previous_files_preserved": 0,
+      "visual_evidence": false,
+      "unexpected_silence": [],
+      "accuracy_measured": false
+    },
+    {
+      "case": "final-gpu/video_test/原音对照版_v1",
+      "notes": 196,
+      "pdf_pages": 4,
+      "midi_max_error_ms": 0.2288666666666883,
+      "previous_files_preserved": 0,
+      "visual_evidence": true,
+      "unexpected_silence": [],
+      "accuracy_measured": false
+    },
+    {
+      "case": "resume-test/video_test/原音对照版_v1",
+      "notes": 196,
+      "pdf_pages": 4,
+      "midi_max_error_ms": 0.2288666666666883,
+      "previous_files_preserved": 0,
+      "visual_evidence": true,
+      "unexpected_silence": [],
+      "accuracy_measured": false
+    },
+    {
+      "case": "video-result/video_test/原音对照版_v1",
+      "notes": 196,
+      "pdf_pages": 4,
+      "midi_max_error_ms": 0.2288666666666883,
+      "previous_files_preserved": 0,
+      "visual_evidence": true,
+      "unexpected_silence": [],
+      "accuracy_measured": false
+    }
+  ],
+  "skill_validator": "passed",
+  "syntax_checks": "passed",
+  "silent_input_rejected": true,
+  "interrupted_run_recovered": true,
+  "completed_run_resume_skipped": true,
+  "historical_files_unchanged": 1586,
+  "container_image_tested": "sha256:86a3c6c66faed88ee0051b48dd3bbb6d0279a318520e288a9dff6ccb912e7824",
+  "docker_gpu_tested": false
+}
